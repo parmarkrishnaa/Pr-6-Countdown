@@ -72,19 +72,19 @@ Designed for **time-based events** and **JavaScript timers** practice.
 ## 📸 Screenshots & Live Demos
 
 > Click the names to view the live project (via GitHub Pages).  
-> *(Replace `your-username` with your actual GitHub username in the URLs below)*
+> **[View Github Profile](https://github.com/parmarkrishnaa/Pr-6-Countdown)**
 
-- **[Download Progress Bar](https://your-username.github.io/js-mini-projects/Progress-Bar/progress.html)**  
-  <img src="./Progress-Bar/progress.png" alt="Progress-Bar" width="500">
+- **[Download Progress Bar](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Progress-Bar/progress.html)**  
+  <img src="./images/progress.png" alt="Progress-Bar" width="500">
 
-- **[Quiz App](https://your-username.github.io/js-mini-projects/Quiz-App/quiz.html)**  
-  <img src="./Quiz-App/quiz.png" alt="Quiz-App" width="500">
+- **[Quiz App](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Quiz-App/quiz.html)**  
+  <img src="./images/quiz.png" alt="Quiz-App" width="500">
 
-- **[Quotes App](https://your-username.github.io/js-mini-projects/Quotes-App/quotes.html)**  
-  <img src="./Quotes-App/quotes.png" alt="Quote-App" width="500">
+- **[Quotes App](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Quotes-App/qoutes.html)**  
+  <img src="./images/quotes.png" alt="Quote-App" width="500">
 
-- **[Stopwatch](https://your-username.github.io/js-mini-projects/Timer/timer.html)**  
-  <img src="./Timer/timer.png" alt="Stopwatch" width="500">
+- **[Stopwatch](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Timer/timer.html)**  
+  <img src="./images/timer.png" alt="Stopwatch" width="500">
 
 
 ## 📚 Learning Outcomes
