@@ -59,7 +59,7 @@ Designed for **time-based events** and **JavaScript timers** practice.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/js-mini-projects.git
+   git clone https://github.com/parmarkrishnaa/Pr-6-Countdown.git
    cd js-mini-projects
    ```
 
