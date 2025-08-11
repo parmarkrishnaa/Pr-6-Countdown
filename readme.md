@@ -23,24 +23,7 @@ The percentage text is displayed **centered inside the bar** for better UX.
 
 ---
 
-### 2️⃣ Quiz App
-A multiple-choice quiz application with a 15-second countdown timer for each question.  
-Built to practice **JavaScript logic building**, **event handling**, and **Bootstrap styling**.
-
-**Features:**
-- Start button to begin the quiz.
-- 15-second timer per question.
-- Automatic question switching when the timer runs out.
-- Displays the final score at the end.
-
-**Tech Stack:**
-- HTML
-- CSS (Bootstrap)
-- JavaScript
-
----
-
-### 3️⃣ Quotes Generator App
+### 2️⃣ Quotes Generator App
 A minimal quotes application that displays random quotes on button click.  
 Built for practicing **JavaScript array handling** and **DOM updates**.
 
@@ -56,7 +39,7 @@ Built for practicing **JavaScript array handling** and **DOM updates**.
 
 ---
 
-### 4️⃣ Stopwatch
+### 3️⃣ Stopwatch
 A digital stopwatch capable of tracking hours, minutes, seconds, and milliseconds.  
 Designed for **time-based events** and **JavaScript timers** practice.
 
@@ -72,7 +55,6 @@ Designed for **time-based events** and **JavaScript timers** practice.
 
 ---
 
-
 ## 🚀 Getting Started
 
 1. **Clone the repository**
@@ -87,17 +69,23 @@ Designed for **time-based events** and **JavaScript timers** practice.
 
 ---
 
-<!-- ## 📸 Screenshots
-> 
-<img src="./Progress-Bar/progress.png" alt="Progress-Bar">
+## 📸 Screenshots & Live Demos
 
-<img src="./Quiz-App/quiz.png" alt="Quiz-App">
+> Click the names to view the live project (via GitHub Pages).  
+> *(Replace `your-username` with your actual GitHub username in the URLs below)*
 
-<img src="./Quotes-App/quotes.png" alt="Quote-App">
+- **[Download Progress Bar](https://your-username.github.io/js-mini-projects/Progress-Bar/progress.html)**  
+  <img src="./Progress-Bar/progress.png" alt="Progress-Bar" width="500">
 
-<img src="./Timer/timer.png" alt="Stopwatch">
+- **[Quiz App](https://your-username.github.io/js-mini-projects/Quiz-App/quiz.html)**  
+  <img src="./Quiz-App/quiz.png" alt="Quiz-App" width="500">
 
---- -->
+- **[Quotes App](https://your-username.github.io/js-mini-projects/Quotes-App/quotes.html)**  
+  <img src="./Quotes-App/quotes.png" alt="Quote-App" width="500">
+
+- **[Stopwatch](https://your-username.github.io/js-mini-projects/Timer/timer.html)**  
+  <img src="./Timer/timer.png" alt="Stopwatch" width="500">
+
 
 ## 📚 Learning Outcomes
 - DOM Manipulation in JavaScript.
