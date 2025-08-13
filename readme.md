@@ -74,16 +74,16 @@ Designed for **time-based events** and **JavaScript timers** practice.
 > Click the names to view the live project (via GitHub Pages).  
 > **[View Github Profile](https://github.com/parmarkrishnaa/Pr-6-Countdown)**
 
-- **[Download Progress Bar](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Progress-Bar/progress.html)**  
+- **[Download Progress Bar](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Progress-Bar/index.html)**  
   <img src="./images/progress.png" alt="Progress-Bar" width="500">
 
-- **[Quiz App](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Quiz-App/quiz.html)**  
+- **[Quiz App](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Quiz-App/index.html)**  
   <img src="./images/quiz.png" alt="Quiz-App" width="500">
 
-- **[Quotes App](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Quotes-App/qoutes.html)**  
+- **[Quotes App](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Quotes-App/index.html)**  
   <img src="./images/quotes.png" alt="Quote-App" width="500">
 
-- **[Stopwatch](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Timer/timer.html)**  
+- **[Stopwatch](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Timer/index.html)**  
   <img src="./images/timer.png" alt="Stopwatch" width="500">
 
 
