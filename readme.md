@@ -74,16 +74,16 @@ Designed for **time-based events** and **JavaScript timers** practice.
 > Click the names to view the live project (via GitHub Pages).  
 > **[View Github Profile](https://github.com/parmarkrishnaa/Pr-6-Countdown)**
 
-- **[Download Progress Bar](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Progress-Bar/index.html)**  
+- **[Download Progress Bar](https://progress-bar-ivory.vercel.app/)**  
   <img src="./images/progress.png" alt="Progress-Bar" width="500">
 
-- **[Quiz App](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Quiz-App/index.html)**  
+- **[Quiz App](https://quiz-app-ivory-seven-33.vercel.app/)**  
   <img src="./images/quiz.png" alt="Quiz-App" width="500">
 
-- **[Quotes App](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Quotes-App/index.html)**  
+- **[Quotes App](https://quotes-app-three-ebon.vercel.app/)**  
   <img src="./images/quotes.png" alt="Quote-App" width="500">
 
-- **[Stopwatch](https://github.com/parmarkrishnaa/Pr-6-Countdown/blob/main/Timer/index.html)**  
+- **[Stopwatch](https://stopwatch-sand-two.vercel.app/)**  
   <img src="./images/timer.png" alt="Stopwatch" width="500">
 
 
